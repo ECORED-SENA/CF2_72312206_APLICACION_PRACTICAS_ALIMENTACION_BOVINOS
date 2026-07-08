@@ -1,0 +1,49 @@
+<template lang="pug">
+  .curso-main-container.pb-3
+    BannerInterno
+    .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+      .titulo-principal.color-acento-contenido
+        .titulo-principal__numero
+          span 5
+        h1 Bioseguridad e inocuidad en la alimentación bovina
+
+      Separador
+      //- Inicio Tema5.1
+      .row
+        #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+          h2 5.1 Medidas de bioseguridad
+
+      Separador
+      //- Inicio Tema5.2
+      .row
+        #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+          h2 5.2 Prevención de contaminación de alimentos y agua
+
+      Separador
+      //- Inicio Tema5.3
+      .row
+        #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+          h2 5.3 Manejo de residuos alimenticios
+
+
+
+</template>
+
+<script>
+export default {
+  name: 'Tema5',
+  data: () => ({
+    // variables de vue
+  }),
+  mounted() {
+    this.$nextTick(() => {
+      this.$aosRefresh()
+    })
+  },
+  updated() {
+    this.$aosRefresh()
+  },
+}
+</script>
+
+<style lang="sass"></style>
