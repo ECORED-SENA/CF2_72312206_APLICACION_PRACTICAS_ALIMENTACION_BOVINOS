@@ -393,7 +393,7 @@
       //- Inicio Tema2.4
       .row
         #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 2.4 Manejo y suministro del agua
+          h2 2.4 Manejo y suministro
       p(data-aos="fade-left") El manejo adecuado del agua constituye una de las responsabilidades fundamentales dentro de los sistemas de producción bovina, debido a su impacto sobre la salud, el bienestar animal y la productividad del hato. Para garantizar un suministro eficiente del recurso hídrico, deben considerarse los siguientes aspectos:
       //- Slideshow
       .bg-full-width.bg-fondo-slider.mb-3

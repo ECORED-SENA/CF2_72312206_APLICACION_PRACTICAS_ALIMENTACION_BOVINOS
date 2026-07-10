@@ -115,56 +115,56 @@
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
-                 img(src='@/assets/curso/temas/t1/tarjeta01_1.png')
+                 img(src='@/assets/curso/temas/t7/tarjeta01_1.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Calidad inadecuada del alimento
                 p Disminución del consumo, pérdidas productivas y riesgos sanitarios.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
-                  img(src='@/assets/curso/temas/t1/tarjeta01_2.png')
+                  img(src='@/assets/curso/temas/t7/tarjeta01_2.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Suministro insuficiente o excesivo de raciones
                 p Desequilibrios nutricionales, alteraciones metabólicas y reducción del desempeño productivo.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
-                  img(src='@/assets/curso/temas/t1/tarjeta01_3.png')
+                  img(src='@/assets/curso/temas/t7/tarjeta01_3.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Deficiencias en el manejo del agua
                 p Deshidratación, disminución del consumo y afectación del bienestar animal.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
-                  img(src='@/assets/curso/temas/t1/tarjeta01_4.png')
+                  img(src='@/assets/curso/temas/t7/tarjeta01_4.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Errores en los registros
                 p Dificultades para la trazabilidad y toma de decisiones inadecuadas.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
-                  img(src='@/assets/curso/temas/t1/tarjeta01_5.png')
+                  img(src='@/assets/curso/temas/t7/tarjeta01_5.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Incumplimiento de condiciones de bienestar animal
                 p Incremento del estrés, deterioro de la salud y disminución de la productividad.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
-                  img(src='@/assets/curso/temas/t1/tarjeta01_6.png')
+                  img(src='@/assets/curso/temas/t7/tarjeta01_6.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Contaminación de alimentos o agua
                 p Riesgos para la inocuidad y aparición de enfermedades.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
-                  img(src='@/assets/curso/temas/t1/tarjeta01_7.png')
+                  img(src='@/assets/curso/temas/t7/tarjeta01_7.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Escasez de forrajes
                 p Déficits nutricionales y reducción del rendimiento productivo.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
-                  img(src='@/assets/curso/temas/t1/tarjeta01_8.png')
+                  img(src='@/assets/curso/temas/t7/tarjeta01_8.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Brotes de enfermedades
                 p Incremento de pérdidas sanitarias y económicas.
@@ -273,10 +273,10 @@
                 span <b>Incremento en los costos de los insumos:</b> ajuste técnico de las dietas y aprovechamiento de recursos locales.
       p(data-aos="fade-left") La aplicación oportuna de estos protocolos reduce pérdidas productivas, fortalece la resiliencia del sistema y protege el bienestar de los animales.
       Separador
-      //- Inicio Tema7.5
+      //- Inicio Tema7.6
       .row
-        #t_7_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 7.5 Evaluación de la mejora continua
+        #t_7_6.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+          h2 7.6 Evaluación de la mejora continua
       p(data-aos="fade-left") La evaluación de la mejora continua consiste en el seguimiento permanente de los cambios implementados para determinar su efectividad dentro del sistema productivo. Este proceso se desarrolla mediante el análisis periódico de indicadores productivos, sanitarios, económicos y de bienestar animal, permitiendo establecer si las acciones adoptadas generan los resultados esperados.
       .row.justify-content-center.align-items-stretch.mb-4
         .col-12.col-md-12.col-lg-2.mb-4.mb-lg-0(data-aos="zoom-in")

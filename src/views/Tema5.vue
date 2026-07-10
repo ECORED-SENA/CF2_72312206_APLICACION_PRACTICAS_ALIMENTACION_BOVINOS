@@ -59,7 +59,7 @@
           PasosA.color-acento-contenido.mb-4(tipo="n")
             .row.align-items-center
               .col-12.col-lg
-                h4 Paso 1. Diagnóstico inicial
+                h4 Diagnóstico inicial
                 p Permite evaluar las condiciones generales de la explotación, incluyendo inventario animal, recursos forrajeros, infraestructura, fuentes de agua, condiciones climáticas y objetivos productivos, constituyendo la base para la planificación.
               .col-12.col-lg-auto.mt-3.mt-lg-0
                 figure
@@ -69,11 +69,11 @@
                 figure
                   img(src='@/assets/curso/temas/t5/tarjeta01_2.png').img125
               .col-12.col-lg.text-start
-                h4 Paso 2. Clasificación de los animales
+                h4 Clasificación de los animales
                 p Facilita la agrupación de los bovinos según edad, peso, estado fisiológico y nivel productivo para formular dietas ajustadas a las necesidades de cada categoría.
             .row.align-items-center
               .col-12.col-lg
-                h4 Paso 3. Determinación de requerimientos nutricionales
+                h4 Determinación de requerimientos nutricionales
                 p Permite calcular las necesidades de energía, proteína, fibra, minerales, vitaminas y agua para garantizar una nutrición adecuada.
               .col-12.col-lg-auto.mt-3.mt-lg-0
                 figure
@@ -83,11 +83,11 @@
                 figure
                   img(src='@/assets/curso/temas/t5/tarjeta01_4.png').img125
               .col-12.col-lg.text-start
-                h4 Paso 4. Inventario de recursos alimenticios
+                h4 Inventario de recursos alimenticios
                 p Identifica las pasturas, bancos de proteína, ensilajes, henos, suplementos y recursos alternativos disponibles, favoreciendo una planificación basada en recursos reales.
             .row.align-items-center
               .col-12.col-lg
-                h5 Paso 5. Planificación de pasturas
+                h5 Planificación de pasturas
                 p Organiza el manejo de potreros, tiempos de ocupación y descanso, capacidad de carga y manejo de praderas para optimizar la producción de forraje.
               .col-12.col-lg-auto.mt-3.mt-lg-0
                 figure
@@ -97,11 +97,11 @@
                 figure
                   img(src='@/assets/curso/temas/t5/tarjeta01_6.png').img125
               .col-12.col-lg.text-start
-                h4 Paso 6. Programa de suplementación
+                h4 Programa de suplementación
                 p Define el tipo, cantidad, frecuencia y forma de suministro de suplementos energéticos, proteicos, minerales o vitamínicos para complementar la dieta.
             .row.align-items-center
               .col-12.col-lg
-                h4 Paso 7. Programa de conservación de forrajes
+                h4 Programa de conservación de forrajes
                 p Incorpora estrategias como ensilaje y henificación para garantizar alimento durante periodos de escasez.
               .col-12.col-lg-auto.mt-3.mt-lg-0
                 figure
@@ -111,11 +111,11 @@
                 figure
                   img(src='@/assets/curso/temas/t5/tarjeta01_8.png').img125
               .col-12.col-lg.text-start
-                h4 Paso 8.  Plan de abastecimiento de agua
+                h4  Plan de abastecimiento de agua
                 p Asegura la disponibilidad permanente de agua limpia y de calidad para mantener la hidratación, la salud y la productividad del hato.
             .row.align-items-center
               .col-12.col-lg
-                h4 Paso 9. Sistema de registros
+                h4 Sistema de registros
                 p Documenta consumos, inventarios, producción, costos y resultados, facilitando el control y la trazabilidad.
               .col-12.col-lg-auto.mt-3.mt-lg-0
                 figure
@@ -125,7 +125,7 @@
                 figure
                   img(src='@/assets/curso/temas/t5/tarjeta01_10.png').img125
               .col-12.col-lg.text-start
-                h4 Paso 10. Programa de evaluación y seguimiento
+                h4 Programa de evaluación y seguimiento
                 p Utiliza indicadores técnicos y económicos para valorar la eficacia del plan y promover la mejora continua.
       //- Linea de tiempo
       p(data-aos="fade-left") La articulación de estos componentes permite desarrollar estrategias alimentarias coherentes con las condiciones de cada explotación y con los objetivos definidos para el sistema productivo.
@@ -143,7 +143,7 @@
       .row.mb-5.justify-content-center.align-items-start
         .col-12.col-sm-9.col-lg-6.order-2.order-lg-1.mb-4.mb-lg-0(data-aos="fade-left")
           figure.mb-0.text-center
-            img(src='@/assets/curso/temas/t5/img2.png' style="width: 650px").m-auto
+            img(src='@/assets/curso/temas/t5/img5.png' style="width: 650px").m-auto
         .col-12.col-lg-6.order-2.order-lg-2(data-aos="fade-right")
           p Durante la ejecución del plan es necesario monitorear permanentemente el consumo de alimento y agua, la condición corporal, la producción de leche, la ganancia de peso y los indicadores reproductivos. Esta información permite verificar si los objetivos nutricionales están siendo alcanzados y realizar ajustes oportunos cuando sea necesario.
           p.bg-color-4.p-3 La aplicación también incluye la planificación de reservas alimenticias para épocas críticas mediante la producción de ensilajes, henos y otros alimentos conservados. Esta estrategia resulta especialmente importante en regiones afectadas por periodos prolongados de sequía o variaciones climáticas extremas.

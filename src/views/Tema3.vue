@@ -207,7 +207,7 @@
       //- Inicio Tema3.1
       .row
         #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 3.1 Planificación nutricional
+          h2 3.1 Principios
       p(data-aos="fade-left") Las Buenas Prácticas de Alimentación (BPA) se fundamentan en principios técnicos, nutricionales, sanitarios, ambientales, económicos y de bienestar animal que orientan todas las actividades relacionadas con la alimentación bovina. Su aplicación permite garantizar sistemas productivos eficientes, seguros y sostenibles, en concordancia con los lineamientos de las Buenas Prácticas Ganaderas (BPG). Los principios que orientan la gestión alimentaria bovina son los siguientes:
       //- Inicio Accordion
       .bg--img_03.mt-5
@@ -329,7 +329,7 @@
       //- Inicio Tema3.3
       .row
         #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 3.3 Selección de materias primas
+          h2 3.3 Normativa aplicable
       p(data-aos="fade-left") Las Buenas Prácticas de Alimentación en Colombia se encuentran integradas al marco de las Buenas Prácticas Ganaderas y son reguladas principalmente por el Instituto Colombiano Agropecuario (ICA). Estas disposiciones buscan garantizar la inocuidad de los alimentos, la salud animal, el bienestar de los bovinos, la sostenibilidad ambiental y la calidad de los productos destinados al consumo humano. Las principales disposiciones relacionadas con la alimentación bovina son las siguientes:
       //- Slideshow
       .bg-full-width.bg-fondo-slider.mb-5

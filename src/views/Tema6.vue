@@ -255,7 +255,7 @@
       .row.mb-5.justify-content-center.align-items-start
         .col-12.col-sm-9.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
           figure.mb-0.text-center
-            img(src='@/assets/curso/temas/t6/img10.png' style="width: 650px").m-auto
+            img(src='@/assets/curso/temas/t6/img10.png' style="width: 470px").m-auto
         .col-12.col-lg-7.order-2.order-lg-1.bg-color-6.p-4(data-aos="fade-right")          
           p.mb-0 Con el fin de facilitar la toma de decisiones, se presentan algunas situaciones frecuentes y las medidas que pueden implementarse para corregirlas oportunamente: 
             ul.lista-ul.color-vinotinto-custom.mb-0.ps-4.pb-1
@@ -284,7 +284,7 @@
 </template>
 
 <script>
-import podcast1 from '@/assets/curso/temas/audio/podcast.mp3'
+import podcast1 from '@/assets/curso/temas/audio/podcast1.mp3'
 export default {
   name: 'Tema6',
   data: () => ({

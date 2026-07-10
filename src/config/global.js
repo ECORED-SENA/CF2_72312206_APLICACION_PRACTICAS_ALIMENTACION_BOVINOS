@@ -69,7 +69,7 @@ export default {
         subMenu: [
           {
             numero: '2.1',
-            titulo: 'Características del agua para consumo animal',
+            titulo: 'Características',
             hash: 't_2_1',
           },
           {
@@ -84,7 +84,7 @@ export default {
           },
           {
             numero: '2.4',
-            titulo: 'Manejo y suministro del agua',
+            titulo: 'Manejo y suministro',
             hash: 't_2_4',
           },
         ],
@@ -97,7 +97,7 @@ export default {
         subMenu: [
           {
             numero: '3.1',
-            titulo: 'Planificación nutricional',
+            titulo: 'Principios',
             hash: 't_3_1',
           },
           {
@@ -107,93 +107,54 @@ export default {
           },
           {
             numero: '3.3',
-            titulo: 'Selección de materias primas',
+            titulo: 'Normativa aplicable',
             hash: 't_3_3',
-          },
-          {
-            numero: '3.4',
-            titulo: 'Compra y recepción de insumos',
-            hash: 't_3_4',
-          },
-          {
-            numero: '3.5',
-            titulo: 'Transporte de alimentos',
-            hash: 't_3_5',
-          },
-          {
-            numero: '3.6',
-            titulo: 'Almacenamiento y conservación',
-            hash: 't_3_6',
-          },
-          {
-            numero: '3.7',
-            titulo: 'Preparación y suministro de raciones',
-            hash: 't_3_7',
-          },
-          {
-            numero: '3.8',
-            titulo: 'Higiene y bioseguridad en la alimentación',
-            hash: 't_3_8',
-          },
-          {
-            numero: '3.9',
-            titulo: 'Registros y trazabilidad',
-            hash: 't_3_9',
-          },
-          {
-            numero: '3.10',
-            titulo: 'Monitoreo y evaluación del programa de alimentación',
-            hash: 't_3_10',
           },
         ],
       },
       {
         nombreRuta: 'tema4',
         numero: '4',
-        titulo: 'Bienestar animal asociado a la alimentación',
+        titulo: 'Medición, pesaje y registros en la alimentación bovina',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '4.1',
-            titulo: 'Principios de bienestar animal',
+            titulo: 'Tipos de registros',
             hash: 't_4_1',
           },
           {
             numero: '4.2',
-            titulo: 'Las cinco libertades',
+            titulo: 'Recolección y diligenciamiento de la información',
             hash: 't_4_2',
           },
           {
             numero: '4.3',
-            titulo: 'Manejo humanitario durante la alimentación',
+            titulo:
+              'Análisis, interpretación y aplicación en la toma de decisiones',
             hash: 't_4_3',
-          },
-          {
-            numero: '4.4',
-            titulo: 'Factores que afectan el bienestar animal',
-            hash: 't_4_4',
           },
         ],
       },
       {
         nombreRuta: 'tema5',
         numero: '5',
-        titulo: 'Bioseguridad e inocuidad en la alimentación bovina',
+        titulo: 'Planes de alimentación',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '5.1',
-            titulo: 'Medidas de bioseguridad',
+            titulo: 'Objetivos',
             hash: 't_5_1',
           },
           {
             numero: '5.2',
-            titulo: 'Prevención de contaminación de alimentos y agua',
+            titulo: 'Componentes',
             hash: 't_5_2',
           },
           {
             numero: '5.3',
-            titulo: 'Manejo de residuos alimenticios',
+            titulo: 'Aplicación',
             hash: 't_5_3',
           },
         ],
@@ -201,61 +162,81 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Registros, seguimiento y mejora continua',
+        titulo: 'Seguimiento y evaluación de la alimentación bovina',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '6.1',
-            titulo: 'Registros del programa de alimentación',
+            titulo: 'Parámetros alimenticios',
             hash: 't_6_1',
           },
           {
             numero: '6.2',
-            titulo: 'Evaluación del consumo y desempeño productivo',
+            titulo: 'Requerimientos nutricionales',
             hash: 't_6_2',
           },
           {
             numero: '6.3',
-            titulo: 'Acciones correctivas y preventivas',
+            titulo: 'Factores que afectan el consumo',
             hash: 't_6_3',
           },
           {
             numero: '6.4',
-            titulo: 'Planes de contingencia',
+            titulo: 'Evaluación e interpretación de resultados',
             hash: 't_6_4',
+          },
+          {
+            numero: '6.5',
+            titulo: 'Indicadores de alimentación',
+            hash: 't_6_5',
+          },
+          {
+            numero: '6.6',
+            titulo: 'Métodos de seguimiento',
+            hash: 't_6_6',
+          },
+          {
+            numero: '6.7',
+            titulo: 'Control de procesos',
+            hash: 't_6_7',
           },
         ],
       },
       {
         nombreRuta: 'tema7',
         numero: '7',
-        titulo: 'Planes de contingencia y mejora continua',
+        titulo: 'Evaluación del cumplimiento y mejora continua',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '7.1',
-            titulo: 'Situaciones que requieren medidas de contingencia',
+            titulo: 'Evaluación de las Buenas Prácticas de Alimentación',
             hash: 't_7_1',
           },
           {
             numero: '7.2',
-            titulo: 'Acciones de respuesta ante eventos que afectan la alimentación bovina',
+            titulo: 'Cumplimiento normativo',
             hash: 't_7_2',
           },
           {
             numero: '7.3',
-            titulo: 'Estrategias para garantizar la continuidad del suministro de alimentos y agua',
+            titulo: 'Identificación de desviaciones y riesgos',
             hash: 't_7_3',
           },
           {
             numero: '7.4',
-            titulo: 'Registros y seguimiento de las acciones implementadas',
+            titulo: 'Acciones correctivas y de mejora',
             hash: 't_7_4',
           },
           {
             numero: '7.5',
-            titulo: 'Evaluación y mejora continua del programa de alimentación',
+            titulo: 'Protocolos de actuación y gestión de contingencias',
             hash: 't_7_5',
+          },
+          {
+            numero: '7.6',
+            titulo: 'Evaluación de la mejora continua',
+            hash: 't_7_6',
           },
         ],
       },
@@ -302,13 +283,80 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Alimentación bovina',
+      significado:
+        'Conjunto de prácticas destinadas a suministrar nutrientes y agua a los bovinos según sus necesidades.',
+    },
+    {
+      termino: 'Forraje',
+      significado:
+        'Material vegetal utilizado como base de la dieta de los bovinos.',
+    },
+    {
+      termino: 'Ensilaje',
+      significado:
+        'Método de conservación de forrajes mediante fermentación anaerobia.',
+    },
+    {
+      termino: 'Banco de proteína',
+      significado:
+        'Área cultivada con especies forrajeras de alto contenido proteico para complementar la alimentación.',
+    },
+    {
+      termino: 'Bioseguridad',
+      significado:
+        'Medidas preventivas orientadas a reducir el riesgo de ingreso y propagación de enfermedades.',
+    },
+    {
+      termino: 'Bienestar animal',
+      significado:
+        'Condiciones que garantizan la salud física y mental de los animales, evitando sufrimiento y estrés.',
+    },
+    {
+      termino: 'Inocuidad',
+      significado:
+        'Condición que asegura que los alimentos y el agua no representen riesgos para la salud.',
+    },
+    {
+      termino: 'Ración',
+      significado:
+        'Cantidad de alimento suministrada a un animal durante un periodo determinado.',
+    },
+    {
+      termino: 'Trazabilidad',
+      significado:
+        'Capacidad de registrar y hacer seguimiento a las actividades e insumos utilizados en el sistema productivo.',
+    },
+    {
+      termino: 'Sistemas silvopastoriles',
+      significado:
+        'Sistemas de producción que integran árboles, pasturas y animales para mejorar la sostenibilidad y el bienestar animal.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Food and Agriculture Organization of the United Nations. (2021). Buenas prácticas ganaderas para la producción bovina de carne y leche. FAO.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario. (2020). Resolución 067449 de 2020. Requisitos para obtener la certificación en Buenas Prácticas Ganaderas (BPG) en la producción primaria de bovinos y bufalinos. ICA.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario. (2020). Resolución 068167 de 2020. Requisitos sanitarios y de inocuidad para explotaciones bovinas y bufalinas. ICA.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario. (2023). Manual de Buenas Prácticas Ganaderas para bovinos. ICA.',
+      link: '',
+    },
+    {
+      referencia:
+        'National Research Council. (2016). Nutrient requirements of beef cattle (8th rev. ed.). The National Academies Press.',
       link: '',
     },
   ],
@@ -318,7 +366,8 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06  <br> Responsable Ecosistema Virtual de Recursos Educativos Digitales  ',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -332,9 +381,16 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Eliana Audrey Manchola Pérez ',
+          cargo: 'Experto temático ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila ',
+        },
+        {
+          nombre: 'Paola Alexandra Moya ',
+          cargo: 'Evaluadora instruccional ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila ',
         },
       ],
     },
@@ -342,20 +398,50 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
+          nombre: 'Fredy Fabian Ortiz Segura',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Henry Alvarez Astudillo',
           cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: '',
+          nombre: 'Alejandro Delgado Acosta ',
+          cargo: 'Intérprete lenguaje de señas  ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura ',
+          cargo: 'Intérprete Lenguaje de señas ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania ',
+          cargo: 'Animador y productor audiovisual ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada ',
+          cargo: 'Animador y productor audiovisual ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Maria Carolina Tamayo Lopez ',
+          cargo: 'Locución ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos ',
+          cargo: 'Locución ',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -365,13 +451,25 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
+          nombre: 'Ricardo Oliveros Zambrano ',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Aixa Natalia Sendoya Fernández ',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez ',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa ',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
