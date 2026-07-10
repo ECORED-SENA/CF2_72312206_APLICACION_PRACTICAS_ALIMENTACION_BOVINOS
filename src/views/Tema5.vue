@@ -148,10 +148,6 @@
           p Durante la ejecución del plan es necesario monitorear permanentemente el consumo de alimento y agua, la condición corporal, la producción de leche, la ganancia de peso y los indicadores reproductivos. Esta información permite verificar si los objetivos nutricionales están siendo alcanzados y realizar ajustes oportunos cuando sea necesario.
           p.bg-color-4.p-3 La aplicación también incluye la planificación de reservas alimenticias para épocas críticas mediante la producción de ensilajes, henos y otros alimentos conservados. Esta estrategia resulta especialmente importante en regiones afectadas por periodos prolongados de sequía o variaciones climáticas extremas.
           p.mb-0 Asimismo, los sistemas silvopastoriles y los bancos de proteína constituyen herramientas de gran importancia dentro de los planes de alimentación modernos, debido a que aumentan la disponibilidad de nutrientes, mejoran el bienestar animal mediante la provisión de sombra y contribuyen a la sostenibilidad ambiental de la explotación.
-
-
-
-
 </template>
 
 <script>
