@@ -102,7 +102,7 @@ export default {
           },
           {
             numero: '3.2',
-            titulo: 'Producción y manejo de forrajes',
+            titulo: 'Características',
             hash: 't_3_2',
           },
           {
@@ -239,16 +239,12 @@ export default {
           },
           {
             numero: '7.2',
-            titulo:
-             
-              'Acciones de respuesta ante eventos que afectan la alimentación bovina',
+            titulo: 'Acciones de respuesta ante eventos que afectan la alimentación bovina',
             hash: 't_7_2',
           },
           {
-            numero:
-              '7.3',
-            titulo:
-              'Estrategias para garantizar la continuidad del suministro de alimentos y agua',
+            numero: '7.3',
+            titulo: 'Estrategias para garantizar la continuidad del suministro de alimentos y agua',
             hash: 't_7_3',
           },
           {
