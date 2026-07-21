@@ -13,7 +13,7 @@
           figure.mb-0.w-100
             img.h-100.w-100(src='@/assets/curso/temas/intro/img1.png', alt='', style="object-fit: cover;")
         .col-lg-7.bg-color-2.d-flex.align-items-center.p-4.p-lg-5
-          p.mb-0 En este componente formativo se abordan los principios relacionados con el manejo integral de la alimentación bovina, incluyendo las características de los alimentos y del agua, las Buenas Prácticas de Alimentación, la bioseguridad y las estrategias orientadas a garantizar el bienestar animal. Asimismo, se destacan los procedimientos de seguimiento y control necesarios para fortalecer la inocuidad y la calidad de los procesos productivos.
+          p.mb-0 En este componente formativo se abordan los principios relacionados con el manejo integral de la alimentación bovina, incluyendo las características de los alimentos y del agua, las buenas prácticas de alimentación, la bioseguridad y las estrategias orientadas a garantizar el bienestar animal. Asimismo, se destacan los procedimientos de seguimiento y control necesarios para fortalecer la inocuidad y la calidad de los procesos productivos.
       p(data-aos="fade-left") El estudio de estos contenidos permitirá comprender la importancia de implementar programas de alimentación técnicamente planificados, apoyados en registros, medidas preventivas y planes de contingencia que faciliten la toma de decisiones y la mejora continua. De esta manera, se promueve una ganadería más eficiente, competitiva y comprometida con la sostenibilidad ambiental y el cumplimiento de la normativa vigente.
 </template>
 <script>

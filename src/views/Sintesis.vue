@@ -7,13 +7,13 @@
           h3.mb-1 Aplicación de prácticas de alimentación en bovinos
           p.mb-0 
             | Síntesis:             
-            | Manejo integral de la alimentación bovina bajo Buenas Prácticas Ganaderas (BPG) y sostenibilidad productiva
+            | manejo integral de la alimentación bovina bajo Buenas Prácticas Ganaderas (BPG) y sostenibilidad productiva
       p.mt-5 A continuación, se presenta una síntesis de la temática estudiada en el componente formativo.
 
       .row.justify-content-center
         .col-lg-10.mb-5.bgs.p-4.brad
           figure
-            img(src="@/assets/curso/sintesis.svg", alt="Diagrama sobre manejo integral de la alimentación bovina bajo Buenas Prácticas Ganaderas (BPG) y sostenibilidad productiva, con apartados de alimentación bovina, agua para consumo animal, buenas prácticas de alimentación, bienestar animal, bioseguridad e inocuidad, seguimiento y control, contingencia y mejora continua, y sostenibilidad productiva, organizados mediante categorías y subtemas relacionados con nutrición, manejo, prevención, monitoreo y uso eficiente de los recursos.")
+            img(src="@/assets/curso/sintesis.svg", alt="Diagrama sobre manejo integral de la alimentación bovina bajo buenas prácticas ganaderas (BPG) y sostenibilidad productiva, con apartados de alimentación bovina, agua para consumo animal, buenas prácticas de alimentación, bienestar animal, bioseguridad e inocuidad, seguimiento y control, contingencia y mejora continua, y sostenibilidad productiva, organizados mediante categorías y subtemas relacionados con nutrición, manejo, prevención, monitoreo y uso eficiente de los recursos.")
         .col-auto
           a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
             .anexo__icono

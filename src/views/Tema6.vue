@@ -15,7 +15,7 @@
             img.rounded-3(src="@/assets/curso/temas/t6/img1.png", style="width: 100%; height: 100%; object-fit: cover;")
         .col-12.col-md-12.col-lg-4(data-aos="fade-left")
           .bg-color-6.p-4.rounded-4.h-100.d-flex.align-items-center
-            p.mb-0 El análisis permanente de la información obtenida contribuye a identificar oportunamente problemas nutricionales, sanitarios o de manejo, así como a establecer medidas correctivas que favorezcan el mejoramiento continuo de los programas de alimentación. De igual manera, constituye un componente esencial de las Buenas Prácticas Ganaderas (BPG), al respaldar la trazabilidad, la gestión técnica y el cumplimiento de la normatividad vigente.
+            p.mb-0 El análisis permanente de la información obtenida contribuye a identificar oportunamente problemas nutricionales, sanitarios o de manejo, así como a establecer medidas correctivas que favorezcan el mejoramiento continuo de los programas de alimentación. De igual manera, constituye un componente esencial de las buenas prácticas ganaderas (BPG), al respaldar la trazabilidad, la gestión técnica y el cumplimiento de la normatividad vigente.
       Separador
       //- Inicio Tema6.1
       .row
@@ -130,7 +130,7 @@
           figure.mb-0.text-center
             img(src='@/assets/curso/temas/t6/img6.png' style="width: 650px").m-auto
         .col-12.col-lg-6.order-2.order-lg-1(data-aos="fade-right")
-          p.bg-color-2.p-4 La información obtenida debe registrarse y analizarse de forma continua para identificar posibles desviaciones y aplicar medidas correctivas oportunamente. Esta práctica forma parte de los requisitos de las Buenas Prácticas Ganaderas y de los sistemas de aseguramiento de la calidad.
+          p.bg-color-2.p-4 La información obtenida debe registrarse y analizarse de forma continua para identificar posibles desviaciones y aplicar medidas correctivas oportunamente. Esta práctica forma parte de los requisitos de las buenas prácticas ganaderas y de los sistemas de aseguramiento de la calidad.
           p.mb-0 Cuando los indicadores se encuentran dentro de los rangos esperados, se considera que la dieta está cubriendo adecuadamente los requerimientos nutricionales. Por el contrario, disminuciones en el consumo, pérdida de peso, baja producción de leche o deterioro de la condición corporal pueden indicar deficiencias nutricionales, problemas sanitarios o fallas de manejo. La correcta interpretación de los resultados permite implementar acciones orientadas a mejorar la productividad, reducir costos y fortalecer el bienestar animal.
       Separador
       //- Inicio Tema6.5
@@ -250,7 +250,7 @@
               .bloque-texto-g__img(
                 :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t6/img9.png')})` }")
               .bloque-texto-g__texto.p-4
-                p.mb-0 El control de procesos consiste en verificar que todas las actividades relacionadas con la alimentación se desarrollen correctamente y de acuerdo con los procedimientos establecidos. Este control incluye el manejo de praderas, bancos de proteína, sistemas silvopastoriles, suplementación, almacenamiento de alimentos, conservación de forrajes, suministro de agua y manejo de comederos y bebederos. Las Buenas Prácticas Ganaderas exigen que estas actividades sean monitoreadas permanentemente para prevenir riesgos sanitarios, nutricionales y ambientales.
+                p.mb-0 El control de procesos consiste en verificar que todas las actividades relacionadas con la alimentación se desarrollen correctamente y de acuerdo con los procedimientos establecidos. Este control incluye el manejo de praderas, bancos de proteína, sistemas silvopastoriles, suplementación, almacenamiento de alimentos, conservación de forrajes, suministro de agua y manejo de comederos y bebederos. Las buenas prácticas ganaderas exigen que estas actividades sean monitoreadas permanentemente para prevenir riesgos sanitarios, nutricionales y ambientales.
             p(data-aos="fade-left") Como parte de este proceso, es necesario verificar periódicamente los resultados obtenidos y compararlos con los objetivos definidos dentro del plan de alimentación. Para ello, se analizan indicadores relacionados con la producción de leche, la ganancia de peso, la condición corporal, la eficiencia reproductiva y el consumo de alimento. Cuando los resultados no cumplen las metas propuestas, deben identificarse las causas y establecerse acciones de mejora orientadas a optimizar el desempeño del sistema productivo.
       .row.mb-5.justify-content-center.align-items-start
         .col-12.col-sm-9.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")

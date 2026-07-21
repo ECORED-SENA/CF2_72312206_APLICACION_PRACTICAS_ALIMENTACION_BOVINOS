@@ -5,13 +5,13 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 3
-        h1 Buenas Prácticas de Alimentación
+        h1 Buenas prácticas de alimentación
       .row.justify-content-center.align-items-stretch.mb-2.g-0.mb-3(data-aos="fade-right")
         .col-lg-5.d-flex
           figure.mb-0.w-100
             img.h-100.w-100(src='@/assets/curso/temas/t3/img1.png', alt='', style="object-fit: cover;")
         .col-lg-7.bg-color-2.d-flex.align-items-center.p-4.p-lg-5
-          p.mb-0 Las Buenas Prácticas de Alimentación (BPA) son el conjunto de procedimientos, medidas de manejo y acciones de control orientadas a garantizar que los bovinos reciban alimentos y agua suficientes, inocuos y de calidad, de acuerdo con sus requerimientos nutricionales y productivos. Como componente esencial de las Buenas Prácticas Ganaderas (BPG), buscan mejorar la salud, el bienestar animal, la productividad y la rentabilidad de la explotación, al tiempo que promueven la sostenibilidad ambiental y la producción de alimentos seguros para el consumo humano.
+          p.mb-0 Las buenas prácticas de alimentación (BPA) son el conjunto de procedimientos, medidas de manejo y acciones de control orientadas a garantizar que los bovinos reciban alimentos y agua suficientes, inocuos y de calidad, de acuerdo con sus requerimientos nutricionales y productivos. Como componente esencial de las buenas prácticas ganaderas (BPG), buscan mejorar la salud, el bienestar animal, la productividad y la rentabilidad de la explotación, al tiempo que promueven la sostenibilidad ambiental y la producción de alimentos seguros para el consumo humano.
       p(data-aos="fade-left") Su implementación requiere una adecuada planificación, el suministro oportuno de los recursos alimenticios y la evaluación continua de los resultados obtenidos. Los principales componentes involucrados en la gestión alimentaria bovina se describen a continuación:
       //- Inicio Accordion
       .bg--img_03.mt-5
@@ -60,7 +60,7 @@
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t3/img4.png')})` }")
         .bloque-texto-g__texto.p-4
           p.mb-0 En conjunto, estas acciones permiten optimizar la productividad, mejorar el bienestar animal, garantizar la inocuidad de los productos de origen bovino y fortalecer la sostenibilidad de los sistemas ganaderos. Desde el punto de vista fisiológico, la alimentación debe asegurar el aporte adecuado de energía, proteína, fibra, minerales, vitaminas y agua para satisfacer las necesidades de mantenimiento, crecimiento, reproducción, gestación, lactancia y producción de carne.
-      p(data-aos="fade-left") Asimismo, las Buenas Prácticas de Alimentación tienen como finalidad prevenir riesgos que puedan afectar la salud de los animales, el desempeño productivo y la inocuidad de los productos obtenidos. La correcta selección, conservación, manejo y suministro de los alimentos contribuye a disminuir la aparición de problemas sanitarios y nutricionales. Los principales riesgos asociados con la alimentación bovina pueden sintetizarse de la siguiente manera:
+      p(data-aos="fade-left") Asimismo, las buenas prácticas de alimentación tienen como finalidad prevenir riesgos que puedan afectar la salud de los animales, el desempeño productivo y la inocuidad de los productos obtenidos. La correcta selección, conservación, manejo y suministro de los alimentos contribuye a disminuir la aparición de problemas sanitarios y nutricionales. Los principales riesgos asociados con la alimentación bovina pueden sintetizarse de la siguiente manera:
       //- Slideshow
       .bg-full-width.bg-fondo-slider.mb-3
         .p-4.p-md-5
@@ -118,7 +118,7 @@
       .row.justify-content-center.align-items-stretch.mb-5
         .col-12.col-md-12.col-lg-3.mb-4.mb-lg-0(data-aos="fade-right")
           .bg-color-6.p-4.rounded-4.h-100.d-flex.align-items-center
-            p.mb-0 Las Buenas Prácticas de Alimentación se relacionan directamente con la primera de las cinco libertades del bienestar animal, la cual establece que los animales deben permanecer libres de hambre, sed y malnutrición.
+            p.mb-0 Las buenas prácticas de alimentación se relacionan directamente con la primera de las cinco libertades del bienestar animal, la cual establece que los animales deben permanecer libres de hambre, sed y malnutrición.
         .col-12.col-md-12.col-lg-5.mb-4.mb-lg-0(data-aos="zoom-in")
           .h-100.d-flex
             img.rounded-3(src="@/assets/curso/temas/t3/img5.png", style="width: 100%; height: 100%; object-fit: cover;")
@@ -140,14 +140,14 @@
                 span Reducir enfermedades relacionadas con la alimentación.
               li.d-flex
                 .fas.fa-carrot.me-3
-                span Fortalecer el cumplimiento de las Buenas Prácticas Ganaderas en Colombia.
+                span Fortalecer el cumplimiento de las buenas prácticas ganaderas en Colombia.
               li.d-flex
                 .fas.fa-carrot.me-3
                 span Favorecer la sostenibilidad del sistema productivo.
         .col-12.col-sm-9.col-lg-5.order-1.order-lg-1.mb-4.mb-lg-0(data-aos="fade-left")
           figure.mb-0.text-center
             img(src='@/assets/curso/temas/t3/img6.png' style="width: 650px").m-auto                
-      p(data-aos="fade-left") Las Buenas Prácticas de Alimentación también promueven la adopción de estrategias sostenibles orientadas a mejorar la eficiencia de la producción bovina, optimizar el uso de los recursos disponibles y fortalecer la capacidad de adaptación frente a las variaciones climáticas y económicas. Entre las principales estrategias implementadas se encuentran las siguientes:
+      p(data-aos="fade-left") Las buenas prácticas de alimentación también promueven la adopción de estrategias sostenibles orientadas a mejorar la eficiencia de la producción bovina, optimizar el uso de los recursos disponibles y fortalecer la capacidad de adaptación frente a las variaciones climáticas y económicas. Entre las principales estrategias implementadas se encuentran las siguientes:
       //- Slideshow
       .bg-full-width.bg-fondo-slider.mb-3
         .p-4.p-md-5
@@ -202,13 +202,13 @@
                 h4 Protección de los recursos naturales
                 p Comprende acciones dirigidas a la conservación responsable del suelo, el agua, la vegetación y la biodiversidad. Disminuye el impacto ambiental y fortalece la sostenibilidad de la actividad ganadera.
       //- Fin Slideshow
-      p(data-aos="fade-left") La implementación articulada de estas estrategias fortalece la sostenibilidad de los sistemas ganaderos, mejora el bienestar de los bovinos, incrementa la eficiencia productiva y favorece el cumplimiento de las Buenas Prácticas Ganaderas exigidas por la normativa colombiana. En consecuencia, contribuye al desarrollo de una ganadería más competitiva, rentable, ambientalmente sostenible y socialmente responsable.      
+      p(data-aos="fade-left") La implementación articulada de estas estrategias fortalece la sostenibilidad de los sistemas ganaderos, mejora el bienestar de los bovinos, incrementa la eficiencia productiva y favorece el cumplimiento de las buenas prácticas ganaderas exigidas por la normativa colombiana. En consecuencia, contribuye al desarrollo de una ganadería más competitiva, rentable, ambientalmente sostenible y socialmente responsable.      
       Separador
       //- Inicio Tema3.1
       .row
         #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 3.1 Principios
-      p(data-aos="fade-left") Las Buenas Prácticas de Alimentación (BPA) se fundamentan en principios técnicos, nutricionales, sanitarios, ambientales, económicos y de bienestar animal que orientan todas las actividades relacionadas con la alimentación bovina. Su aplicación permite garantizar sistemas productivos eficientes, seguros y sostenibles, en concordancia con los lineamientos de las Buenas Prácticas Ganaderas (BPG). Los principios que orientan la gestión alimentaria bovina son los siguientes:
+      p(data-aos="fade-left") Las buenas prácticas de alimentación (BPA) se fundamentan en principios técnicos, nutricionales, sanitarios, ambientales, económicos y de bienestar animal que orientan todas las actividades relacionadas con la alimentación bovina. Su aplicación permite garantizar sistemas productivos eficientes, seguros y sostenibles, en concordancia con los lineamientos de las buenas prácticas ganaderas (BPG). Los principios que orientan la gestión alimentaria bovina son los siguientes:
       //- Inicio Accordion
       .bg--img_03.mt-5
         .row.justify-content-center
@@ -243,18 +243,18 @@
             figure(data-aos="zoom-in")
               img(src="@/assets/curso/temas/t3/img8.png", alt="").img400.m-auto                  
       //- Fin Accordion
-      p(data-aos="fade-left") La aplicación integrada de estos principios permite orientar la toma de decisiones relacionadas con la alimentación bovina, fortalecer el bienestar animal, optimizar la productividad y favorecer el cumplimiento de los requisitos establecidos para las Buenas Prácticas Ganaderas en Colombia. De esta manera, se promueve una producción más eficiente, segura, sostenible y socialmente responsable.
+      p(data-aos="fade-left") La aplicación integrada de estos principios permite orientar la toma de decisiones relacionadas con la alimentación bovina, fortalecer el bienestar animal, optimizar la productividad y favorecer el cumplimiento de los requisitos establecidos para las buenas prácticas ganaderas en Colombia. De esta manera, se promueve una producción más eficiente, segura, sostenible y socialmente responsable.
       Separador
       //- Inicio Tema3.2
       .row
         #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 3.2 Caracteristicas
+          h2 3.2 Características
       .row.justify-content-center.align-items-stretch.mb-2.mb-3(data-aos="fade-right")
         .col-lg-5.d-flex
           figure.mb-0.w-100
             img.h-100.w-100(src='@/assets/curso/temas/t3/img9.png', alt='', style="object-fit: cover;")
         .col-lg-7.bg-color-2.d-flex.align-items-center.p-4.p-lg-5
-          p.mb-0 Las Buenas Prácticas de Alimentación (BPA) presentan características que permiten su implementación de manera organizada, eficiente y verificable dentro de las explotaciones bovinas. Estas características favorecen el cumplimiento de los objetivos nutricionales, productivos, sanitarios, ambientales y de bienestar animal establecidos por las Buenas Prácticas Ganaderas (BPG).
+          p.mb-0 Las buenas prácticas de alimentación (BPA) presentan características que permiten su implementación de manera organizada, eficiente y verificable dentro de las explotaciones bovinas. Estas características favorecen el cumplimiento de los objetivos nutricionales, productivos, sanitarios, ambientales y de bienestar animal establecidos por las buenas prácticas ganaderas (BPG).
       p(data-aos="fade-left") Una de sus principales particularidades es que deben desarrollarse a partir de una adecuada planificación. La alimentación no debe responder a decisiones improvisadas, sino a una programación técnica basada en las necesidades de los animales y en la disponibilidad de recursos de la explotación. Este proceso considera aspectos como la oferta de forrajes, las épocas climáticas, los inventarios alimenticios, las categorías animales y los objetivos productivos, permitiendo anticiparse a periodos de escasez y garantizar la continuidad del suministro. Las principales características de las BPA son las siguientes:   
       //- Slideshow
       .bg-full-width.bg-fondo-slider.mb-3
@@ -301,7 +301,7 @@
                   img(src='@/assets/curso/temas/t3/tarjeta03_6.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Documentadas
-                p Todas las actividades deben registrarse de manera clara y organizada. Los registros fortalecen la trazabilidad, facilitan auditorías y respaldan los procesos de certificación en Buenas Prácticas Ganaderas.
+                p Todas las actividades deben registrarse de manera clara y organizada. Los registros fortalecen la trazabilidad, facilitan auditorías y respaldan los procesos de certificación en buenas prácticas ganaderas.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
@@ -330,7 +330,7 @@
       .row
         #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
           h2 3.3 Normativa aplicable
-      p(data-aos="fade-left") Las Buenas Prácticas de Alimentación en Colombia se encuentran integradas al marco de las Buenas Prácticas Ganaderas y son reguladas principalmente por el Instituto Colombiano Agropecuario (ICA). Estas disposiciones buscan garantizar la inocuidad de los alimentos, la salud animal, el bienestar de los bovinos, la sostenibilidad ambiental y la calidad de los productos destinados al consumo humano. Las principales disposiciones relacionadas con la alimentación bovina son las siguientes:
+      p(data-aos="fade-left") Las buenas prácticas de alimentación en Colombia se encuentran integradas al marco de las buenas prácticas ganaderas y son reguladas principalmente por el Instituto Colombiano Agropecuario (ICA). Estas disposiciones buscan garantizar la inocuidad de los alimentos, la salud animal, el bienestar de los bovinos, la sostenibilidad ambiental y la calidad de los productos destinados al consumo humano. Las principales disposiciones relacionadas con la alimentación bovina son las siguientes:
       //- Slideshow
       .bg-full-width.bg-fondo-slider.mb-5
         .p-4.p-md-5
@@ -341,14 +341,14 @@
                  img(src='@/assets/curso/temas/t3/tarjeta04_1.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Resolución ICA 067449 de 2020
-                p Establece los requisitos para la certificación en Buenas Prácticas Ganaderas en predios productores de leche. Exige disponibilidad permanente de agua limpia y suficiente, alimentación acorde con los requerimientos nutricionales, manejo higiénico de alimentos e insumos, registros de alimentación y suplementación, almacenamiento seguro, protección de fuentes hídricas y prevención de contaminaciones físicas, químicas y biológicas.
+                p Establece los requisitos para la certificación en buenas prácticas ganaderas en predios productores de leche. Exige disponibilidad permanente de agua limpia y suficiente, alimentación acorde con los requerimientos nutricionales, manejo higiénico de alimentos e insumos, registros de alimentación y suplementación, almacenamiento seguro, protección de fuentes hídricas y prevención de contaminaciones físicas, químicas y biológicas.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
                   img(src='@/assets/curso/temas/t3/tarjeta04_2.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Resolución ICA 068167 de 2020
-                p efine los requisitos para la certificación en Buenas Prácticas Ganaderas en predios destinados a la producción de carne bovina y bufalina. Incluye lineamientos relacionados con alimentación segura y balanceada, manejo sanitario del agua y los alimentos, trazabilidad de los procesos, protección ambiental y conservación de la inocuidad de la carne.
+                p Define los requisitos para la certificación en buenas prácticas ganaderas en predios destinados a la producción de carne bovina y bufalina. Incluye lineamientos relacionados con alimentación segura y balanceada, manejo sanitario del agua y los alimentos, trazabilidad de los procesos, protección ambiental y conservación de la inocuidad de la carne.
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
@@ -361,8 +361,8 @@
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t3/img10.png')})` }")
         .bloque-texto-g__texto.p-4
-          p.mb-0 Además de estas disposiciones, las Buenas Prácticas de Alimentación se articulan con otros instrumentos orientados a fortalecer la sostenibilidad y la calidad de la producción ganadera. Entre ellos se incluyen la legislación sobre inocuidad alimentaria, la normativa ambiental para la protección de los recursos naturales, los programas de sostenibilidad ganadera, los lineamientos sobre bienestar animal, los sistemas de aseguramiento de la calidad, los programas de trazabilidad pecuaria y las directrices relacionadas con la conservación de las fuentes hídricas y el manejo adecuado de residuos.
-      p(data-aos="fade-left") El cumplimiento de este marco normativo contribuye a mejorar la competitividad de las explotaciones bovinas, facilita los procesos de certificación, fortalece la confianza del consumidor y promueve una producción responsable, sostenible y alineada con los principios de bienestar animal y Buenas Prácticas Ganaderas.
+          p.mb-0 Además de estas disposiciones, las buenas prácticas de alimentación se articulan con otros instrumentos orientados a fortalecer la sostenibilidad y la calidad de la producción ganadera. Entre ellos se incluyen la legislación sobre inocuidad alimentaria, la normativa ambiental para la protección de los recursos naturales, los programas de sostenibilidad ganadera, los lineamientos sobre bienestar animal, los sistemas de aseguramiento de la calidad, los programas de trazabilidad pecuaria y las directrices relacionadas con la conservación de las fuentes hídricas y el manejo adecuado de residuos.
+      p(data-aos="fade-left") El cumplimiento de este marco normativo contribuye a mejorar la competitividad de las explotaciones bovinas, facilita los procesos de certificación, fortalece la confianza del consumidor y promueve una producción responsable, sostenible y alineada con los principios de bienestar animal y buenas prácticas ganaderas.
       
 
 </template>

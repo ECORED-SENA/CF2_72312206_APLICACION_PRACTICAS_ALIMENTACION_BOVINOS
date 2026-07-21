@@ -16,7 +16,7 @@
             .col-12.col-md-7.d-flex
               .p-4.w-100.h-100.bg-color-2
                 p Por esta razón, la alimentación constituye uno de los factores más importantes de la producción ganadera, debido a que influye directamente en la productividad, la salud, la eficiencia reproductiva y la rentabilidad de la explotación. La calidad y disponibilidad de los alimentos son determinantes para garantizar el bienestar animal y el adecuado desempeño productivo. Una nutrición deficiente puede ocasionar pérdida de peso, disminución de la producción, alteraciones reproductivas y mayor susceptibilidad a enfermedades.
-          p En este contexto, las Buenas Prácticas Ganaderas y las Resoluciones ICA 067449 de 2020, 068167 de 2020 y 115708 de 2021 promueven el suministro de alimentos suficientes, inocuos y de calidad. Además, fomentan la implementación de estrategias sostenibles que contribuyan al uso eficiente de los recursos y al fortalecimiento de sistemas ganaderos más resilientes.
+          p En este contexto, las buenas prácticas ganaderas y las Resoluciones ICA 067449 de 2020, 068167 de 2020 y 115708 de 2021 promueven el suministro de alimentos suficientes, inocuos y de calidad. Además, fomentan la implementación de estrategias sostenibles que contribuyan al uso eficiente de los recursos y al fortalecimiento de sistemas ganaderos más resilientes.
         .col-12.col-sm-8.col-md-6.col-lg-3.order-1.order-lg-2.mb-4.mb-lg-0.d-flex.align-items-center.justify-content-center(data-aos="zoom-in")
           figure.mb-0.w-100.text-center
             img.img-fluid(src="@/assets/curso/temas/t1/img2.png", alt="", style="max-width: 100%;")
@@ -157,7 +157,7 @@
                   img(src='@/assets/curso/temas/t1/tarjeta02_7.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Ausencia de contaminantes
-                p El alimento debe estar libre de hongos, micotoxinas, tierra, plásticos, metales, vidrios y residuos químicos. Esta condición garantiza la inocuidad del alimento y el cumplimiento de las Buenas Prácticas Ganaderas (BPG).
+                p El alimento debe estar libre de hongos, micotoxinas, tierra, plásticos, metales, vidrios y residuos químicos. Esta condición garantiza la inocuidad del alimento y el cumplimiento de las buenas prácticas ganaderas (BPG).
             .row.align-items-center.p-4.p-md-5
               .col-lg-5.order-2
                 figure
@@ -249,7 +249,7 @@
             .col-12.col-md-7.d-flex
               .p-4.w-100.h-100.bg-color-2
                 p Además de sus efectos sobre la productividad, la alimentación desempeña un papel determinante en la sostenibilidad de la ganadería. Los sistemas que incorporan estrategias como la conservación de forrajes, el establecimiento de bancos de proteína, la implementación de sistemas silvopastoriles y el aprovechamiento responsable de recursos alimenticios alternativos presentan mayores niveles de eficiencia productiva y una mejor capacidad de adaptación frente a la variabilidad climática.
-          p Desde el enfoque de las Buenas Prácticas Ganaderas (BPG) y del bienestar animal, la alimentación constituye uno de los pilares fundamentales para el desarrollo de sistemas productivos sostenibles, rentables y socialmente responsables. Una adecuada planificación del suministro de nutrientes permite garantizar la disponibilidad permanente de alimento, mejorar la calidad de vida de los bovinos y fortalecer la competitividad de la ganadería colombiana en un contexto de creciente exigencia productiva y ambiental.
+          p Desde el enfoque de las buenas prácticas ganaderas (BPG) y del bienestar animal, la alimentación constituye uno de los pilares fundamentales para el desarrollo de sistemas productivos sostenibles, rentables y socialmente responsables. Una adecuada planificación del suministro de nutrientes permite garantizar la disponibilidad permanente de alimento, mejorar la calidad de vida de los bovinos y fortalecer la competitividad de la ganadería colombiana en un contexto de creciente exigencia productiva y ambiental.
         .col-12.col-sm-8.col-md-6.col-lg-3.order-1.order-lg-2.mb-4.mb-lg-0.d-flex.align-items-center.justify-content-center(data-aos="zoom-in")
           figure.mb-0.w-100.text-center
             img.img-fluid(src="@/assets/curso/temas/t1/img6.png", alt="", style="max-width: 100%;")

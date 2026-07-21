@@ -19,10 +19,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Manejo integral de la alimentación bovina bajo Buenas Prácticas Ganaderas',
+      tema: 'Manejo integral de la alimentación bovina bajo buenas prácticas ganaderas',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> identificar los conceptos clave relacionados con la alimentación bovina, el manejo del agua, las Buenas Prácticas Ganaderas y la sostenibilidad productiva.',
+        '<b>Objetivo:</b> identificar los conceptos clave relacionados con la alimentación bovina, el manejo del agua, las buenas prácticas ganaderas y la sostenibilidad productiva.',
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -401,7 +401,7 @@ export default {
         },
         {
           id: 13,
-          texto: '¿Qué son las Buenas Prácticas de Alimentación?',
+          texto: '¿Qué son las buenas prácticas de alimentación?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [

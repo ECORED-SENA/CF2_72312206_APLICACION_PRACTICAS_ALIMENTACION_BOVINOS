@@ -51,7 +51,7 @@
                   img(src='@/assets/curso/temas/t4/tarjeta01_5.png')
               .col-lg-7.order-1.mb-3.mb-lg-0
                 h4 Pesaje de animales y alimentos
-                p Constituye una práctica esencial dentro de las Buenas Prácticas Ganaderas. En los animales, permite evaluar el crecimiento, la condición corporal y la respuesta a los programas nutricionales; en los alimentos, facilita el control de inventarios, la formulación precisa de raciones y la determinación del consumo real.
+                p Constituye una práctica esencial dentro de las buenas prácticas ganaderas. En los animales, permite evaluar el crecimiento, la condición corporal y la respuesta a los programas nutricionales; en los alimentos, facilita el control de inventarios, la formulación precisa de raciones y la determinación del consumo real.
       //- Fin Slideshow
       .row.justify-content-center.align-items-stretch.mb-4
         .col-12.col-lg-9.order-2.order-lg-1(data-aos="fade-right")
@@ -62,7 +62,7 @@
                 img.h-100.w-100(src="@/assets/curso/temas/t4/img2.png", alt="", style="object-fit: cover; border-radius: 4px;")                            
             .col-12.col-md-7.d-flex
               .p-4.w-100.h-100.bg-color-5
-                p Estos registros forman parte fundamental de las Buenas Prácticas Ganaderas (BPG), ya que permiten mantener un control permanente de las actividades alimenticias y productivas del predio, facilitando la toma de decisiones técnicas, económicas y sanitarias. Además, constituyen una herramienta indispensable para garantizar la trazabilidad de los procesos y demostrar el cumplimiento de los requisitos establecidos en las Resoluciones ICA 067449 de 2020, 068167 de 2020 y 115708 de 2021.
+                p Estos registros forman parte fundamental de las buenas prácticas ganaderas (BPG), ya que permiten mantener un control permanente de las actividades alimenticias y productivas del predio, facilitando la toma de decisiones técnicas, económicas y sanitarias. Además, constituyen una herramienta indispensable para garantizar la trazabilidad de los procesos y demostrar el cumplimiento de los requisitos establecidos en las Resoluciones ICA 067449 de 2020, 068167 de 2020 y 115708 de 2021.
           p La información registrada permite evaluar la eficiencia de los programas nutricionales, identificar problemas oportunamente, controlar los costos de producción y verificar que los animales reciben una alimentación adecuada de acuerdo con sus requerimientos fisiológicos y productivos. Para que los registros sean útiles y confiables, deben reunir determinadas características.
         .col-12.col-sm-8.col-md-6.col-lg-3.order-1.order-lg-2.mb-4.mb-lg-0.d-flex.align-items-center.justify-content-center(data-aos="zoom-in")
           figure.mb-0.w-100.text-center
@@ -94,7 +94,7 @@
         .col-12.col-sm-9.col-lg-5.order-1.order-lg-1.mb-4.mb-lg-0(data-aos="fade-left")
           figure.mb-0.text-center
             img(src='@/assets/curso/temas/t4/img4.png' style="width: 650px").m-auto                            
-      p(data-aos="fade-left") En conjunto, las mediciones, el pesaje y los registros constituyen herramientas esenciales para el control técnico de la alimentación bovina. Su adecuada implementación fortalece la trazabilidad, mejora la toma de decisiones y favorece sistemas ganaderos más eficientes, sostenibles y alineados con los principios de las Buenas Prácticas Ganaderas y el bienestar animal.
+      p(data-aos="fade-left") En conjunto, las mediciones, el pesaje y los registros constituyen herramientas esenciales para el control técnico de la alimentación bovina. Su adecuada implementación fortalece la trazabilidad, mejora la toma de decisiones y favorece sistemas ganaderos más eficientes, sostenibles y alineados con los principios de las buenas prácticas ganaderas y el bienestar animal.
       Separador
       //- Inicio Tema4.1
       .row
@@ -125,7 +125,7 @@
                           img(src='@/assets/curso/temas/t4/tarjeta02_3.png').w-100
                           .p-4
                             h4.card-title.text-center.mb-3 Registro de suplementación
-                            p Permite verificar el aporte adicional de nutrientes mediante el control del uso de sales mineralizadas, bloques multi nutricionales y suplementos energéticos o proteicos.
+                            p Permite verificar el aporte adicional de nutrientes mediante el control del uso de sales mineralizadas, bloques multinutricionales y suplementos energéticos o proteicos.
                         .bg-white.tarjeta.h-100.shadow-app.bordes.overflow-hidden
                           img(src='@/assets/curso/temas/t4/tarjeta02_4.png').w-100
                           .p-4
@@ -174,8 +174,8 @@
             img.rounded-3(src="@/assets/curso/temas/t4/img6.png", style="width: 100%; height: 100%; object-fit: cover;")
         .col-12.col-md-12.col-lg-4(data-aos="fade-left")
           .bg-color-5.p-4.rounded-4.h-100.d-flex.align-items-center
-            p.mb-0 Durante la recolección de datos es importante incluir aspectos como la fecha del registro, la identificación del animal, el lote o grupo productivo, el tipo de actividad realizada, la cantidad de alimento suministrado, la cantidad consumida, la producción obtenida y cualquier observación relevante que contribuya a interpretar adecuadamente la información.
-      p(data-aos="fade-left") Actualmente, muchas explotaciones utilizan herramientas digitales, aplicaciones móviles y programas de gestión ganadera que facilitan el almacenamiento, procesamiento y análisis de los datos. Asimismo, las Buenas Prácticas Ganaderas recomiendan conservar los registros durante los periodos establecidos por la normatividad vigente para facilitar auditorías, inspecciones y procesos de certificación.
+            p.mb-0 Durante la recolección de datos, es importante incluir aspectos como la fecha del registro, la identificación del animal, el lote o grupo productivo, el tipo de actividad realizada, la cantidad de alimento suministrado, la cantidad consumida, la producción obtenida y cualquier observación relevante que contribuya a interpretar adecuadamente la información.
+      p(data-aos="fade-left") Actualmente, muchas explotaciones utilizan herramientas digitales, aplicaciones móviles y programas de gestión ganadera que facilitan el almacenamiento, procesamiento y análisis de los datos.  Prácticas Ganaderas recomiendan conservar los registros durante los periodos establecidos por la normatividad vigente para facilitar auditorías, inspecciones y procesos de certificación.
       Separador
       //- Inicio Tema4.3
       .row
@@ -256,7 +256,7 @@
             .col-12.col-md-7.d-flex
               .p-4.w-100.h-100.bg-color-5
                 p Desde el enfoque de bienestar animal, los registros permiten detectar de manera temprana situaciones de hambre, desnutrición, pérdida de condición corporal, disminución del consumo de agua o alteraciones productivas que puedan comprometer la salud de los bovinos. Esto facilita intervenciones oportunas que mejoran el bienestar y reducen el riesgo de enfermedades.
-          p Por esta razón, los registros de alimentación, consumo y producción constituyen una herramienta esencial para la gestión integral de la empresa ganadera, el cumplimiento de las Buenas Prácticas Ganaderas, la certificación sanitaria, la sostenibilidad ambiental y el mejoramiento continuo de los sistemas bovinos modernos.
+          p Por esta razón, los registros de alimentación, consumo y producción constituyen una herramienta esencial para la gestión integral de la empresa ganadera, el cumplimiento de las buenas prácticas ganaderas, la certificación sanitaria, la sostenibilidad ambiental y el mejoramiento continuo de los sistemas bovinos modernos.
 </template>
 
 <script>

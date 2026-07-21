@@ -1,6 +1,6 @@
 export default {
   global: {
-    Name: 'Manejo integral de la alimentación bovina bajo Buenas Prácticas Ganaderas (BPG) y sostenibilidad productiva',
+    Name: 'Manejo integral de la alimentación bovina bajo buenas prácticas ganaderas (BPG) y sostenibilidad productiva',
     Description:
       'Este componente formativo permitió comprender la importancia de una adecuada alimentación bovina mediante el manejo eficiente de alimentos y agua, la aplicación de Buenas Prácticas Ganaderas, medidas de bioseguridad y estrategias de bienestar animal. Asimismo, destacó la relevancia de los registros, los planes de contingencia y la mejora continua para fortalecer la productividad, sostenibilidad y competitividad de los sistemas bovinos.',
     imagenBannerPrincipal: '@/assets/curso/portada/banner-principal.png',
@@ -92,7 +92,7 @@ export default {
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Buenas Prácticas de Alimentación',
+        titulo: 'Buenas prácticas de alimentación',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -210,7 +210,7 @@ export default {
         subMenu: [
           {
             numero: '7.1',
-            titulo: 'Evaluación de las Buenas Prácticas de Alimentación',
+            titulo: 'Evaluación de las buenas prácticas de Alimentación',
             hash: 't_7_1',
           },
           {
@@ -341,7 +341,7 @@ export default {
     },
     {
       referencia:
-        'Instituto Colombiano Agropecuario. (2020). Resolución 067449 de 2020. Requisitos para obtener la certificación en Buenas Prácticas Ganaderas (BPG) en la producción primaria de bovinos y bufalinos. ICA.',
+        'Instituto Colombiano Agropecuario. (2020). Resolución 067449 de 2020. Requisitos para obtener la certificación en buenas prácticas ganaderas (BPG) en la producción primaria de bovinos y bufalinos. ICA.',
       link: '',
     },
     {
@@ -351,7 +351,7 @@ export default {
     },
     {
       referencia:
-        'Instituto Colombiano Agropecuario. (2023). Manual de Buenas Prácticas Ganaderas para bovinos. ICA.',
+        'Instituto Colombiano Agropecuario. (2023). Manual de buenas prácticas ganaderas para bovinos. ICA.',
       link: '',
     },
     {

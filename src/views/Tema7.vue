@@ -6,7 +6,7 @@
         .titulo-principal__numero
           span 7
         h1 Evaluación del cumplimiento y mejora continua
-      p(data-aos="fade-left") La evaluación del cumplimiento y la mejora continua constituyen procesos fundamentales dentro de los sistemas de producción bovina orientados por las Buenas Prácticas de Alimentación (BPA) y las Buenas Prácticas Ganaderas (BPG). Su propósito es verificar que las actividades planificadas se ejecuten de manera adecuada, eficiente y conforme a la normatividad vigente, al tiempo que promueven la optimización permanente de los procesos productivos.
+      p(data-aos="fade-left") La evaluación del cumplimiento y la mejora continua constituyen procesos fundamentales dentro de los sistemas de producción bovina orientados por las Buenas Prácticas de Alimentación (BPA) y las buenas prácticas ganaderas (BPG). Su propósito es verificar que las actividades planificadas se ejecuten de manera adecuada, eficiente y conforme a la normatividad vigente, al tiempo que promueven la optimización permanente de los procesos productivos.
       .row.mb-5.justify-content-center.align-items-start
         .col-12.col-sm-9.col-lg-6.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
           figure.mb-0.text-center
@@ -18,13 +18,13 @@
       //- Inicio Tema7.1
       .row
         #t_7_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 7.1 Evaluación de las Buenas Prácticas de Alimentación
+          h2 7.1 Evaluación de las buenas prácticas de alimentación
       .row.justify-content-center.align-items-stretch.mb-4
         .col-12.col-sm-8.col-md-6.col-lg-3.order-1.order-lg-1.mb-4.mb-lg-0.d-flex.align-items-center.justify-content-center(data-aos="zoom-in")
           figure.mb-0.w-100.text-center
             img.img-fluid(src="@/assets/curso/temas/t7/img2.png", alt="", style="width: 250px;")
         .col-12.col-lg-9.order-2.order-lg-2(data-aos="fade-right")
-          p Las Buenas Prácticas de Alimentación constituyen uno de los ejes centrales del sistema productivo bovino, debido a su influencia sobre la eficiencia productiva, la salud animal y la calidad de los productos obtenidos. Su evaluación implica verificar que cada etapa del proceso alimenticio se ejecute correctamente, desde la producción y conservación de los forrajes hasta el suministro final del alimento.
+          p Las buenas prácticas de alimentación constituyen uno de los ejes centrales del sistema productivo bovino, debido a su influencia sobre la eficiencia productiva, la salud animal y la calidad de los productos obtenidos. Su evaluación implica verificar que cada etapa del proceso alimenticio se ejecute correctamente, desde la producción y conservación de los forrajes hasta el suministro final del alimento.
           .row.g-3.align-items-stretch.mb-3
             .col-12.col-md-7.d-flex
               .p-4.w-100.h-100.bg-color-4
@@ -43,7 +43,7 @@
           figure.mb-0.text-center
             img(src='@/assets/curso/temas/t7/img4.png' style="width: 650px").m-auto
         .col-12.col-lg-6.order-2.order-lg-1.bg-color-2.p-3(data-aos="fade-right")          
-          p.mb-0 El cumplimiento normativo hace referencia a la adherencia de la explotación bovina a las disposiciones legales y técnicas establecidas para la implementación de las Buenas Prácticas Ganaderas. La evaluación contempla la revisión de aspectos como:
+          p.mb-0 El cumplimiento normativo hace referencia a la adherencia de la explotación bovina a las disposiciones legales y técnicas establecidas para la implementación de las buenas prácticas ganaderas. La evaluación contempla la revisión de aspectos como:
             ul.lista-ul.color-vinotinto-custom.mb-0
               li.d-flex.mt-3
                 .fas.fa-carrot.me-2
@@ -282,12 +282,12 @@
         .col-12.col-md-12.col-lg-2.mb-4.mb-lg-0(data-aos="zoom-in")
           figure.mb-0.h-100
             img.w-100(src="@/assets/curso/temas/t7/img8.png", alt="", style="object-fit: cover; object-position: center; border-radius: 16px; min-height: 220px; height: auto;")
-        .col-12.col-md-12.col-lg-10.d-flex.flex-column(data-aos="fade-right")          
-          p.mb-3 Entre los aspectos evaluados se incluyen la producción de leche, la ganancia de peso, la conversión alimenticia, la condición corporal, las tasas reproductivas y los niveles de mortalidad y morbilidad.          
+        .col-12.col-md-12.col-lg-10.d-flex.flex-column(data-aos="fade-right")
+          p.mb-3 Entre los aspectos evaluados se incluyen la producción de leche, la ganancia de peso, la conversión alimenticia, la condición corporal, las tasas reproductivas y los niveles de mortalidad y morbilidad.
           .row.g-3.align-items-stretch.flex-grow-1            
-            .col-12.col-md-12.col-lg-7.d-flex.flex-column.justify-content-between              
+            .col-12.col-md-12.col-lg-7.d-flex.flex-column.justify-content-between
               .p-4.bg-color-5.mb-3(style="border-radius: 6px;")
-                p.mb-0 La información obtenida permite ajustar continuamente las estrategias de manejo, fortalecer la toma de decisiones y promover sistemas ganaderos más eficientes, sostenibles y alineados con los principios de las Buenas Prácticas Ganaderas.              
+                p.mb-0 La información obtenida permite ajustar continuamente las estrategias de manejo, fortalecer la toma de decisiones y promover sistemas ganaderos más eficientes, sostenibles y alineados con los principios de las buenas prácticas ganaderas.
               p.mb-3.mb-lg-0 En consecuencia, la evaluación del cumplimiento y la mejora continua constituyen herramientas esenciales para garantizar la inocuidad, la productividad, el bienestar animal y la sostenibilidad de la producción bovina moderna, favoreciendo la consolidación de explotaciones más competitivas, responsables y resilientes.
             .col-12.col-md-12.col-lg-5
               figure.mb-0.h-100(style="min-height: 220px;")
